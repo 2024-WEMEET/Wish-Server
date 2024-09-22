@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import wish.wishServer.common.response.BasicResponse;
 import wish.wishServer.common.response.ErrorEntity;
 import wish.wishServer.common.response.ResponseUtil;
+import wish.wishServer.member.exception.AuthException;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -26,5 +27,12 @@ public class GlobalExceptionHandler {
                 .forEach(c -> errors.put(((FieldError) c).getField(), c.getDefaultMessage()));
         log.error("Dto Validation Exception({}): {}", "BAD_INPUT", errors);
         return ResponseUtil.error(new ErrorEntity("BAD_INPUT", "입력이 올바르지 않습니다.", errors));
+    }
+
+    @ExceptionHandler(AuthException.class)
+    @ResponseStatus(HttpStatus.BAD_REQUEST)
+    public BasicResponse<ErrorEntity> MemberBadRequestException(AuthException e) {
+        log.error("Member Not Found({})={}", e.getCode(), e.getMessage());
+        return ResponseUtil.error(new ErrorEntity(e.getCode().toString(), e.getMessage()));
     }
 }
