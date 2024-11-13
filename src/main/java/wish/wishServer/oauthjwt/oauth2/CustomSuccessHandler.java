@@ -53,9 +53,11 @@ public class CustomSuccessHandler extends SimpleUrlAuthenticationSuccessHandler 
             throw new RuntimeException("User not found");
         }
         boolean tutorialCompleted = userEntity.isTutorialCompleted();
+        String name = userEntity.getName();
+
 
         // 리디렉션 URL에 튜토리얼 완료 여부를 추가
-        String redirectUrl = "http://localhost:5500/?tutorialCompleted=" + tutorialCompleted;
+        String redirectUrl = "http://localhost:8081/loading/?tutorialCompleted=" + tutorialCompleted + "&name=" + name;
         response.sendRedirect(redirectUrl);
     }
 
