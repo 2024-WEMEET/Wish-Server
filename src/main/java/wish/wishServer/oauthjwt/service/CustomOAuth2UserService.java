@@ -9,9 +9,9 @@ import org.springframework.stereotype.Service;
 import wish.wishServer.oauthjwt.dto.CustomOAuth2User;
 import wish.wishServer.oauthjwt.dto.GoogleResponse;
 import wish.wishServer.oauthjwt.dto.OAuth2Response;
-import wish.wishServer.oauthjwt.dto.UserDTO;
-import wish.wishServer.oauthjwt.entity.UserEntity;
-import wish.wishServer.oauthjwt.repository.UserRepository;
+import wish.wishServer.user.dto.UserDTO;
+import wish.wishServer.user.entity.UserEntity;
+import wish.wishServer.user.repository.UserRepository;
 
 @Service
 public class CustomOAuth2UserService extends DefaultOAuth2UserService {
@@ -38,6 +38,7 @@ public class CustomOAuth2UserService extends DefaultOAuth2UserService {
 
             return null;
         }
+
         String username = oAuth2Response.getProvider() + " " + oAuth2Response.getProviderId();
         UserEntity existData = userRepository.findByUsername(username);
 
@@ -48,13 +49,14 @@ public class CustomOAuth2UserService extends DefaultOAuth2UserService {
             userEntity.setEmail(oAuth2Response.getEmail());
             userEntity.setName(oAuth2Response.getName());
             userEntity.setRole("ROLE_USER");
-
+            userEntity.setTutorialCompleted(false);
             userRepository.save(userEntity);
 
             UserDTO userDTO = new UserDTO();
             userDTO.setUsername(username);
             userDTO.setName(oAuth2Response.getName());
             userDTO.setRole("ROLE_USER");
+            userEntity.setTutorialCompleted(false);
 
             return new CustomOAuth2User(userDTO);
         } else {
@@ -68,6 +70,7 @@ public class CustomOAuth2UserService extends DefaultOAuth2UserService {
             userDTO.setUsername(existData.getUsername());
             userDTO.setName(oAuth2Response.getName());
             userDTO.setRole(existData.getRole());
+            userDTO.setTutorialCompleted(existData.isTutorialCompleted());
 
             return new CustomOAuth2User(userDTO);
         }

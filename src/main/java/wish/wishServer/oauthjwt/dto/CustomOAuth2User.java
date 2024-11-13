@@ -2,6 +2,7 @@ package wish.wishServer.oauthjwt.dto;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.oauth2.core.user.OAuth2User;
+import wish.wishServer.user.dto.UserDTO;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -48,5 +49,9 @@ public class CustomOAuth2User implements OAuth2User {
     public String getUsername() {
 
         return userDTO.getUsername();
+    }
+
+    public boolean isTutorialCompleted() {
+        return userDTO.isTutorialCompleted();
     }
 }
