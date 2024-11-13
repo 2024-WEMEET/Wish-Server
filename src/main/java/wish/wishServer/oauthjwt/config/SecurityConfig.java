@@ -45,7 +45,7 @@ public class SecurityConfig {
                                                                 CorsConfiguration configuration = new CorsConfiguration();
                                                                 configuration.setAllowedOriginPatterns(
                                                                                 Collections.singletonList(
-                                                                                                "http://localhost:5500")); // 모든 출처 허용
+                                                                                                "http://localhost:5500")); //프론트 주소
                                                                 configuration.setAllowedMethods(
                                                                                 Collections.singletonList("*"));
                                                                 configuration.setAllowCredentials(true);
