@@ -45,9 +45,7 @@ public class SecurityConfig {
                                                                 CorsConfiguration configuration = new CorsConfiguration();
                                                                 configuration.setAllowedOriginPatterns(
                                                                                 Collections.singletonList(
-                                                                                                "http://localhost:5500")); // 모든
-                                                                // 출처
-                                                                // 허용
+                                                                                                "http://localhost:5500")); // 모든 출처 허용
                                                                 configuration.setAllowedMethods(
                                                                                 Collections.singletonList("*"));
                                                                 configuration.setAllowCredentials(true);
@@ -62,24 +60,17 @@ public class SecurityConfig {
                                 .csrf((auth) -> auth.disable()) // CSRF 비활성화
                                 .formLogin((auth) -> auth.disable()) // Form 로그인 비활성화
                                 .httpBasic((auth) -> auth.disable()) // HTTP Basic 인증 비활성화
-                                .addFilterBefore(new JWTFilter(jwtUtil), UsernamePasswordAuthenticationFilter.class) // JWT
-                                                                                                                     // 필터
-                                                                                                                     // 추가
+                                .addFilterBefore(new JWTFilter(jwtUtil), UsernamePasswordAuthenticationFilter.class) // JWT 필터 추가
                                 .oauth2Login((oauth2) -> oauth2
                                                 .userInfoEndpoint((userInfoEndpointConfig) -> userInfoEndpointConfig
                                                                 .userService(customOAuth2UserService))
                                                 .successHandler(customSuccessHandler))
                                 .authorizeHttpRequests((auth) -> auth
-                                                .requestMatchers("/", "/public/**").permitAll() // "/"와 "/public/**" 경로
-                                                                                                // 허용
-                                                .requestMatchers("/member/userInfo", "/my").hasRole("USER") // "user-info"와
-                                                                                                            // "my" 경로는
-                                                                                                            // USER 권한
-                                                                                                            // 필요
+                                                .requestMatchers("/", "/public/**").permitAll() // 모두 허용 메소드
+                                                .requestMatchers("/member/userInfo", "/my").hasRole("USER") // 권한 필요 메소드
                                                 .anyRequest().authenticated())
                                 .sessionManagement((session) -> session
-                                                .sessionCreationPolicy(SessionCreationPolicy.STATELESS)); // 세션 관리
-                                                                                                          // STATELESS
+                                                .sessionCreationPolicy(SessionCreationPolicy.STATELESS)); // 세션 관리 STATELESS
 
                 return http.build();
         }
