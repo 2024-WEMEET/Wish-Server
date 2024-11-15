@@ -45,7 +45,7 @@ public class SecurityConfig {
                                                                 CorsConfiguration configuration = new CorsConfiguration();
                                                                 configuration.setAllowedOriginPatterns(
                                                                                 Collections.singletonList(
-                                                                                                "http://localhost:5500")); //프론트 주소
+                                                                                                "*")); //프론트 주소
                                                                 configuration.setAllowedMethods(
                                                                                 Collections.singletonList("*"));
                                                                 configuration.setAllowCredentials(true);
@@ -67,7 +67,7 @@ public class SecurityConfig {
                                                 .successHandler(customSuccessHandler))
                                 .authorizeHttpRequests((auth) -> auth
                                                 .requestMatchers("/", "/public/**").permitAll() // 모두 허용 메소드
-                                                .requestMatchers("/member/userInfo", "/my").hasRole("USER") // 권한 필요 메소드
+                                                .requestMatchers("/member/userInfo", "/member/tutorial").hasRole("USER") // 권한 필요 메소드
                                                 .anyRequest().authenticated())
                                 .sessionManagement((session) -> session
                                                 .sessionCreationPolicy(SessionCreationPolicy.STATELESS)); // 세션 관리 STATELESS

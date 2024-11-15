@@ -7,13 +7,7 @@ import java.util.List;
 
 @Getter
 @Setter
-public class UserDTO {
-
-    private String username;
-    private String name;
-    private String email;
-    private String role;
-    private boolean tutorialCompleted;
+public class TutorialUpdateDTO {
 
     private String univ;      // 대학 이름
     private String major;     // 전공
@@ -24,4 +18,6 @@ public class UserDTO {
     private List<String> prog;  // 프로그램 리스트
     private List<String> lang;  // 어학 성적 리스트
     private List<Integer> worries; // 고민 리스트
+
+    private boolean tutorialCompleted; // 튜토리얼 완료 여부
 }
