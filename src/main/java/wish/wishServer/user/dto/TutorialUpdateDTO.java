@@ -11,8 +11,8 @@ public class TutorialUpdateDTO {
 
     private String univ;      // 대학 이름
     private String major;     // 전공
-    private String year;      // 학년
-    private String semester;  // 학기
+    private Integer year;      // 학년
+    private Integer semester;  // 학기
 
     private List<String> cert;  // 자격증 리스트
     private List<String> prog;  // 프로그램 리스트
