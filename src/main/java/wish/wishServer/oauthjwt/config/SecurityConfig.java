@@ -45,7 +45,7 @@ public class SecurityConfig {
                                                                 CorsConfiguration configuration = new CorsConfiguration();
                                                                 configuration.setAllowedOriginPatterns(
                                                                                 Collections.singletonList(
-                                                                                                "*")); //프론트 주소
+                                                                                                "http://localhost:8081")); //프론트 주소
                                                                 configuration.setAllowedMethods(
                                                                                 Collections.singletonList("*"));
                                                                 configuration.setAllowCredentials(true);

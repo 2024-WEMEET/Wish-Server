@@ -12,6 +12,6 @@ public class CorsMvcConfig implements WebMvcConfigurer {
 
         corsRegistry.addMapping("/**")
                 .exposedHeaders("Set-Cookie")
-                .allowedOrigins("*");// 프론트 서버 주소
+                .allowedOrigins("http://localhost:8081");// 프론트 서버 주소
     }
 }
