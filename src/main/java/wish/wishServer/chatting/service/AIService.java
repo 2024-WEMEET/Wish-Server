@@ -14,7 +14,7 @@ public class AIService {
 
     private final RestTemplate restTemplate;
 
-    @Value("${ai.server.url}")
+    @Value("${ai.server.url:http://localhost:5000}")
     private String aiServerUrl; // AI 서버 URL
 
     public String getAIResponse(String username, String message) {
