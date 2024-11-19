@@ -7,4 +7,5 @@ import java.util.List;
 
 public interface ChattingRepository extends JpaRepository<ChattingEntity, String> {
     List<ChattingEntity> findByUsername(String username);
+    List<ChattingEntity> findByUsernameOrderByTimestampAsc(String username);
 }
