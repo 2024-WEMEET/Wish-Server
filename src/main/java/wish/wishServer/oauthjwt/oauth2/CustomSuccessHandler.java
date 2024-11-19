@@ -1,6 +1,8 @@
 package wish.wishServer.oauthjwt.oauth2;
 
 import java.io.IOException;
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.util.Collection;
 import java.util.Iterator;
 
@@ -54,8 +56,9 @@ public class CustomSuccessHandler extends SimpleUrlAuthenticationSuccessHandler 
         }
         boolean tutorialCompleted = userEntity.isTutorialCompleted();
         String name = userEntity.getName();
+        
+        String encodedName = URLEncoder.encode(name, StandardCharsets.UTF_8.toString());
 
-        String encodedName = UriUtils.encode(name, StandardCharsets.UTF_8);
 
         // 리디렉션 URL에 튜토리얼 완료 여부를 추가
         String redirectUrl = "http://localhost:8081/loading/?tutorialCompleted=" + tutorialCompleted + "&name=" + encodedName;
