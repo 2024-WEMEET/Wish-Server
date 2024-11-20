@@ -1,0 +1,3692 @@
+{
+    "가스기술사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "건설기계기술사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "건설안전기술사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "건축구조기술사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "건축기계설비기술사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "건축시공기술사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "건축전기설비기술사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "건축품질시험기술사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "공장관리기술사": {
+        "Middle classification": "생산관리",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "공조냉동기계기술사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "교통기술사": {
+        "Middle classification": "도시.교통",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "금속가공기술사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "금속재료기술사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "금속제련기술사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "금형기술사": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "기계기술사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "기계안전기술사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "기상예보기술사": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "농어업토목기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "농화학기술사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "대기관리기술사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "도로및공항기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "도시계획기술사": {
+        "Middle classification": "도시.교통",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "발송배전기술사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "비파괴검사기술사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "산림기술사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "산업계측제어기술사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "산업기계설비기술사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "산업위생관리기술사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "상하수도기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "섬유기술사": {
+        "Middle classification": "섬유",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "세라믹기술사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "소방기술사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "소음진동기술사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "수산양식기술사": {
+        "Middle classification": "어업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "수산제조기술사": {
+        "Middle classification": "식품",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "수자원개발기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "수질관리기술사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "시설원예기술사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "식품기술사": {
+        "Middle classification": "식품",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "어업기술사": {
+        "Middle classification": "어업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "용접기술사": {
+        "Middle classification": "용접",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "의류기술사": {
+        "Middle classification": "섬유",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "인간공학기술사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "자연환경관리기술사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "전기안전기술사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "전기응용기술사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "전기철도기술사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "전자응용기술사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "정보관리기술사": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "제품디자인기술사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "조경기술사": {
+        "Middle classification": "조경",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "조선기술사": {
+        "Middle classification": "조선",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "종자기술사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "지적기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "지질및지반기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "차량기술사": {
+        "Middle classification": "자동차",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "철도기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "철도신호기술사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "철도차량기술사": {
+        "Middle classification": "철도",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "축산기술사": {
+        "Middle classification": "축산",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "측량및지형공간정보기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "컴퓨터시스템응용기술사": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "토목구조기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "토목시공기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "토목품질시험기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "토양환경기술사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "토질및기초기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "폐기물처리기술사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "포장기술사": {
+        "Middle classification": "생산관리",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "표면처리기술사": {
+        "Middle classification": "도장.도금",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "품질관리기술사": {
+        "Middle classification": "생산관리",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "항공기관기술사": {
+        "Middle classification": "항공",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "항공기체기술사": {
+        "Middle classification": "항공",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "항만및해안기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "해양기술사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "화공기술사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "화공안전기술사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "화약류관리기술사": {
+        "Middle classification": "채광",
+        "Major Category": "광업자원",
+        "qualifications": "국가기술자격",
+        "etc": "기술사"
+    },
+    "가스기능장": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "건설기계정비기능장": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "건축목재시공기능장": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "건축일반시공기능장": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "귀금속가공기능장": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "금속재료기능장": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "금형기능장": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "기계가공기능장": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "미용장": {
+        "Middle classification": "이용.미용",
+        "Major Category": "이용.숙박.여행.오락.스포츠",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "배관기능장": {
+        "Middle classification": "건설배관",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "압연기능장": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "에너지관리기능장": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "용접기능장": {
+        "Middle classification": "용접",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "위험물기능장": {
+        "Middle classification": "위험물",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "이용장": {
+        "Middle classification": "이용.미용",
+        "Major Category": "이용.숙박.여행.오락.스포츠",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "자동차정비기능장": {
+        "Middle classification": "자동차",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "잠수기능장": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "전기기능장": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "전자기능장": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "제강기능장": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "제과기능장": {
+        "Middle classification": "제과.제빵",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "제선기능장": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "조리기능장": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "주조기능장": {
+        "Middle classification": "단조.주조",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "철도차량정비기능장": {
+        "Middle classification": "철도",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "판금제관기능장": {
+        "Middle classification": "판금.제관.새시",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "표면처리기능장": {
+        "Middle classification": "도장.도금",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "한복기능장": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기능장"
+    },
+    "3D프린터개발산업기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "가구제작산업기사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "가스기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "가스산업기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "객화차정비산업기사": {
+        "Middle classification": "철도",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건설기계설비기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건설기계설비산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건설기계정비기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건설기계정비산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건설안전기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건설안전산업기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건설재료시험기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건설재료시험산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건축기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건축목공산업기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건축산업기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건축설비기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건축설비산업기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "건축일반시공산업기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "공간정보융합산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "공조냉동기계기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "공조냉동기계산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "광학기기산업기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "광학기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "교통기사": {
+        "Middle classification": "도시.교통",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "교통산업기사": {
+        "Middle classification": "도시.교통",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "국제의료관광코디네이터": {
+        "Middle classification": "보건.의료",
+        "Major Category": "보건.의료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "궤도장비정비기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "궤도장비정비산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "귀금속가공산업기사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "그린전동자동차기사": {
+        "Middle classification": "자동차",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "금속재료기사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "금속재료산업기사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "기계설계산업기사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "기계정비산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "기계조립산업기사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "기상감정기사": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "기상기사": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "농림토양평가관리기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "농림토양평가관리산업기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "농업기계기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "농업기계산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "농작업안전보건기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "누설비파괴검사기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "대기환경기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "대기환경산업기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "도시계획기사": {
+        "Middle classification": "도시.교통",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "로봇기구개발기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "로봇소프트웨어개발기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "로봇하드웨어개발기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "멀티미디어콘텐츠제작전문가": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "메카트로닉스산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "바이오화학제품제조기사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "바이오화학제품제조산업기사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "반도체설계산업기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "방사선비파괴검사기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "방사선비파괴검사산업기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "방수산업기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "방재기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "배관산업기사": {
+        "Middle classification": "건설배관",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "버섯산업기사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "보석감정산업기사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "보석디자인산업기사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "복어조리산업기사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "사무자동화산업기사": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "사출금형기사": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "사출금형산업기사": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "사회조사분석사1급": {
+        "Middle classification": "경영",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "사회조사분석사2급": {
+        "Middle classification": "경영",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "산림기사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "산림산업기사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "산업안전기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "산업안전산업기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "산업위생관리기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "산업위생관리산업기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "생물분류기사(동물)": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "생물분류기사(식물)": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "설비보전기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "섬유기사": {
+        "Middle classification": "섬유",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "섬유디자인산업기사": {
+        "Middle classification": "섬유",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "섬유산업기사": {
+        "Middle classification": "섬유",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "소방설비기사(기계분야)": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "소방설비기사(전기분야)": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "소방설비산업기사(기계분야)": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "소방설비산업기사(전기분야)": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "소비자전문상담사1급": {
+        "Middle classification": "경영",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "소비자전문상담사2급": {
+        "Middle classification": "경영",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "소음진동기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "소음진동산업기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "수산양식기사": {
+        "Middle classification": "어업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "수산양식산업기사": {
+        "Middle classification": "어업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "수산제조기사": {
+        "Middle classification": "식품",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "수질환경기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "수질환경산업기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "스포츠경영관리사": {
+        "Middle classification": "숙박.여행.오락.스포츠",
+        "Major Category": "이용.숙박.여행.오락.스포츠",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "승강기기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "승강기산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "시각디자인기사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "시각디자인산업기사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "시설원예기사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "식물보호기사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "식물보호산업기사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "식육가공기사": {
+        "Middle classification": "식품",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "식품기사": {
+        "Middle classification": "식품",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "식품산업기사": {
+        "Middle classification": "식품",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "신발산업기사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "신재생에너지발전설비기사(태양광)": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "신재생에너지발전설비산업기사(태양광)": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "실내건축기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "실내건축산업기사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "양식조리산업기사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "어로산업기사": {
+        "Middle classification": "어업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "어병기사": {
+        "Middle classification": "어업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "어업생산관리기사": {
+        "Middle classification": "어업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "에너지관리기사": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "에너지관리산업기사": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "온실가스관리기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "와전류비파괴검사기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "용접기사": {
+        "Middle classification": "용접",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "용접산업기사": {
+        "Middle classification": "용접",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "위험물산업기사": {
+        "Middle classification": "위험물",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "유기농업기사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "유기농업산업기사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "응용지질기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "의공기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "의공산업기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "의류기사": {
+        "Middle classification": "섬유",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "이러닝운영관리사": {
+        "Middle classification": "교육.자연.과학.사회과학",
+        "Major Category": "교육.자연.과학.사회과학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "인간공학기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "인쇄기사": {
+        "Middle classification": "인쇄.사진",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "인쇄산업기사": {
+        "Middle classification": "인쇄.사진",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "일반기계기사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "일식조리산업기사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "임베디드기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "임산가공기사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "임상심리사1급": {
+        "Middle classification": "보건.의료",
+        "Major Category": "보건.의료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "임상심리사2급": {
+        "Middle classification": "보건.의료",
+        "Major Category": "보건.의료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "임업종묘기사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "자기비파괴검사기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "자기비파괴검사산업기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "자동차정비기사": {
+        "Middle classification": "자동차",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "자동차정비산업기사": {
+        "Middle classification": "자동차",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "자동화설비산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "자연생태복원기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "자연생태복원산업기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "잠수산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "재료조직평가산업기사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전기공사기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전기공사산업기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전기기기산업기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전기기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전기산업기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전기철도기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전기철도산업기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전자계산기기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전자계산기제어산업기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전자계산기조직응용기사": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전자기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전자부품장착산업기사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전자산업기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "전자회로설계산업기사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "정밀측정산업기사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "정밀화학기사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "정보처리기사": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "정보처리산업기사": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "제과산업기사": {
+        "Middle classification": "제과.제빵",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "제빵산업기사": {
+        "Middle classification": "제과.제빵",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "제판기사": {
+        "Middle classification": "인쇄.사진",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "제품디자인기사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "제품디자인산업기사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "조경기사": {
+        "Middle classification": "조경",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "조경산업기사": {
+        "Middle classification": "조경",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "조선산업기사": {
+        "Middle classification": "조선",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "조선선체기사": {
+        "Middle classification": "조선",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "조선의장기사": {
+        "Middle classification": "조선",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "종자기사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "종자산업기사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "주조산업기사": {
+        "Middle classification": "단조.주조",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "중식조리산업기사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "지적기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "지적산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "직업상담사1급": {
+        "Middle classification": "사회복지.종교",
+        "Major Category": "사회복지.종교",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "직업상담사2급": {
+        "Middle classification": "사회복지.종교",
+        "Major Category": "사회복지.종교",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "철도동력차기관정비산업기사": {
+        "Middle classification": "철도",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "철도동력차전기정비산업기사": {
+        "Middle classification": "철도",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "철도신호기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "철도신호산업기사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "철도운송산업기사": {
+        "Middle classification": "운전.운송",
+        "Major Category": "운전.운송",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "철도차량기사": {
+        "Middle classification": "철도",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "철도차량산업기사": {
+        "Middle classification": "철도",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "철도토목기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "초음파비파괴검사기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "초음파비파괴검사산업기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "축산기사": {
+        "Middle classification": "축산",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "축산산업기사": {
+        "Middle classification": "축산",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "측량및지형공간정보기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "측량및지형공간정보산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "침투비파괴검사기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "침투비파괴검사산업기사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "컨벤션기획사1급": {
+        "Middle classification": "경영",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "컨벤션기획사2급": {
+        "Middle classification": "경영",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "컬러리스트기사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "컬러리스트산업기사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "컴퓨터응용가공산업기사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "콘크리트기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "콘크리트산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "텔레마케팅관리사": {
+        "Middle classification": "영업.판매",
+        "Major Category": "영업.판매",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "토목기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "토목산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "토양환경기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "판금제관산업기사": {
+        "Middle classification": "판금.제관.새시",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "패션디자인산업기사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "패션머천다이징산업기사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "폐기물처리기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "폐기물처리산업기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "포장기사": {
+        "Middle classification": "생산관리",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "포장산업기사": {
+        "Middle classification": "생산관리",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "표면처리산업기사": {
+        "Middle classification": "도장.도금",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "품질경영기사": {
+        "Middle classification": "생산관리",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "품질경영산업기사": {
+        "Middle classification": "생산관리",
+        "Major Category": "경영.회계.사무",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "프레스금형기사": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "프레스금형산업기사": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "피아노조율산업기사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "한복산업기사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "한식조리산업기사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "항공기사": {
+        "Middle classification": "항공",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "항공산업기사": {
+        "Middle classification": "항공",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "항로표지기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "항로표지산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "해양공학기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "해양자원개발기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "해양조사산업기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "해양환경기사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화공기사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화약류관리기사": {
+        "Middle classification": "채광",
+        "Major Category": "광업자원",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화약류관리산업기사": {
+        "Middle classification": "채광",
+        "Major Category": "광업자원",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화약류제조기사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화약류제조산업기사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화재감식평가기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화재감식평가산업기사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화학분석기사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화훼장식기사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "화훼장식산업기사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "환경위해관리기사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기사"
+    },
+    "3D프린터운용기능사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "가구제작기능사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "가스기능사": {
+        "Middle classification": "안전관리",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "가스텅스텐아크용접기능사": {
+        "Middle classification": "용접",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "거푸집기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "건설기계정비기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "건설재료시험기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "건축도장기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "건축목공기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "공간정보융합기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "공구제작기능사보": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "공유압기능사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "공조냉동기계기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "광고도장기능사": {
+        "Middle classification": "도장.도금",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "광산보안기능사(화약분야)": {
+        "Middle classification": "채광",
+        "Major Category": "광업자원",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "광산차량기계운전기능사": {
+        "Middle classification": "채광",
+        "Major Category": "광업자원",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "광산환경기능사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "광학기능사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "굴착기운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "궤도장비정비기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "귀금속가공기능사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "금속도장기능사": {
+        "Middle classification": "도장.도금",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "금속재료시험기능사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "금속재창호기능사": {
+        "Middle classification": "판금.제관.새시",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "금형기능사": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "기계가공조립기능사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "기계정비기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "기중기운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "농기계운전기능사": {
+        "Middle classification": "운전.운송",
+        "Major Category": "운전.운송",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "농기계정비기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "도배기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "도자공예기능사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "도화기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "동력기계정비기능사": {
+        "Middle classification": "조선",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "떡제조기능사": {
+        "Middle classification": "제과.제빵",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "로더운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "롤러운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "메카트로닉스기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "모터그레이더운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "목공예기능사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "목재가공기능사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "목재창호기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "목질재료기능사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "미용사(네일)": {
+        "Middle classification": "이용.미용",
+        "Major Category": "이용.숙박.여행.오락.스포츠",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "미용사(메이크업)": {
+        "Middle classification": "이용.미용",
+        "Major Category": "이용.숙박.여행.오락.스포츠",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "미용사(일반)": {
+        "Middle classification": "이용.미용",
+        "Major Category": "이용.숙박.여행.오락.스포츠",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "미용사(피부)": {
+        "Middle classification": "이용.미용",
+        "Major Category": "이용.숙박.여행.오락.스포츠",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "미장기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "반도체설비보전기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "방사선비파괴검사기능사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "방수기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "배관기능사": {
+        "Middle classification": "건설배관",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "버섯종균기능사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "보석가공기능사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "보석감정사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "복어조리기능사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "불도저운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "비계기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "사진기능사": {
+        "Middle classification": "인쇄.사진",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "사출금형기능사보": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "산림기능사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "석공기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "석공예기능사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "선체건조기능사": {
+        "Middle classification": "조선",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "설비보전기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "세탁기능사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "수산양식기능사": {
+        "Middle classification": "어업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "승강기기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "식육처리기능사": {
+        "Middle classification": "축산",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "식품가공기능사": {
+        "Middle classification": "식품",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "신발제조기능사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "신재생에너지발전설비기능사(태양광)": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "실내건축기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "아스팔트피니셔운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "압연기능사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "양복기능사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "양식조리기능사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "양장기능사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "양화장치운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "에너지관리기능사": {
+        "Middle classification": "에너지.기상",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "열처리기능사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "염색기능사(날염)": {
+        "Middle classification": "섬유",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "염색기능사(침염)": {
+        "Middle classification": "섬유",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "온수온돌기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "원예기능사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "원형기능사": {
+        "Middle classification": "단조.주조",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "웹디자인기능사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "위험물기능사": {
+        "Middle classification": "위험물",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "유기농업기능사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "유리시공기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "의료전자기능사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "이산화탄소가스아크용접기능사": {
+        "Middle classification": "용접",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "이용사": {
+        "Middle classification": "이용.미용",
+        "Major Category": "이용.숙박.여행.오락.스포츠",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "인쇄기능사": {
+        "Middle classification": "인쇄.사진",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "일식조리기능사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "임업종묘기능사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "자기비파괴검사기능사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "자동차보수도장기능사": {
+        "Middle classification": "자동차",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "자동차정비기능사": {
+        "Middle classification": "자동차",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "자동차차체수리기능사": {
+        "Middle classification": "자동차",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "자동화설비기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "잠수기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전기기능사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전산응용건축제도기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전산응용기계제도기능사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전산응용조선제도기능사": {
+        "Middle classification": "조선",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전산응용토목제도기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전자계산기기능사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전자기능사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전자부품장착기능사": {
+        "Middle classification": "기계장비설비.설치",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전자출판기능사": {
+        "Middle classification": "인쇄.사진",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "전자캐드기능사": {
+        "Middle classification": "전자",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "정밀측정기능사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "정보기기운용기능사": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "정보처리기능사": {
+        "Middle classification": "정보기술",
+        "Major Category": "정보통신",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "제강기능사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "제과기능사": {
+        "Middle classification": "제과.제빵",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "제빵기능사": {
+        "Middle classification": "제과.제빵",
+        "Major Category": "식품.가공",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "제선기능사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "제품응용모델링기능사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "조경기능사": {
+        "Middle classification": "조경",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "조적기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "조주기능사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "종자기능사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "주조기능사": {
+        "Middle classification": "단조.주조",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "중식조리기능사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "지게차운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "지도제작기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "지적기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "천공기운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "천장크레인운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "철근기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "철도전기신호기능사": {
+        "Middle classification": "전기",
+        "Major Category": "전기.전자",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "철도차량정비기능사": {
+        "Middle classification": "철도",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "철도토목기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "초음파비파괴검사기능사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "축로기능사": {
+        "Middle classification": "금속.재료",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "축산기능사": {
+        "Middle classification": "축산",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "측량기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "침투비파괴검사기능사": {
+        "Middle classification": "비파괴검사",
+        "Major Category": "안전관리",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "컨테이너크레인운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "컴퓨터그래픽스운용기능사": {
+        "Middle classification": "디자인",
+        "Major Category": "문화.예술.디자인.방송",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "컴퓨터응용밀링기능사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "컴퓨터응용선반기능사": {
+        "Middle classification": "기계제작",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "콘크리트기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "타워크레인운전기능사": {
+        "Middle classification": "건설기계운전",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "타일기능사": {
+        "Middle classification": "건축",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "판금제관기능사": {
+        "Middle classification": "판금.제관.새시",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "펄프종이제조기능사": {
+        "Middle classification": "임업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "표면처리기능사": {
+        "Middle classification": "도장.도금",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "프레스금형기능사보": {
+        "Middle classification": "금형.공작기계",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "플라스틱창호기능사": {
+        "Middle classification": "판금.제관.새시",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "피복아크용접기능사": {
+        "Middle classification": "용접",
+        "Major Category": "재료",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "피아노조율기능사": {
+        "Middle classification": "목재.가구.공예",
+        "Major Category": "인쇄.목재.가구.공예",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "한복기능사": {
+        "Middle classification": "의복",
+        "Major Category": "섬유.의복",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "한식조리기능사": {
+        "Middle classification": "조리",
+        "Major Category": "음식서비스",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "항공기정비기능사": {
+        "Middle classification": "항공",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "항공사진기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "항공전기·전자정비기능사": {
+        "Middle classification": "항공",
+        "Major Category": "기계",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "항로표지기능사": {
+        "Middle classification": "토목",
+        "Major Category": "건설",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "화약취급기능사": {
+        "Middle classification": "채광",
+        "Major Category": "광업자원",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "화학분석기능사": {
+        "Middle classification": "화공",
+        "Major Category": "화학",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "화훼장식기능사": {
+        "Middle classification": "농업",
+        "Major Category": "농림어업",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "환경기능사": {
+        "Middle classification": "환경",
+        "Major Category": "환경.에너지",
+        "qualifications": "국가기술자격",
+        "etc": "기능사"
+    },
+    "공인노무사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "공인노무사"
+    },
+    "가맹거래사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "가맹거래사"
+    },
+    "공인중개사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "공인중개사"
+    },
+    "기계경비지도사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경비지도사"
+    },
+    "일반경비지도사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경비지도사"
+    },
+    "세무사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "세무사"
+    },
+    "관세사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관세사"
+    },
+    "외국어번역행정사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "행정사"
+    },
+    "일반행정사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "행정사"
+    },
+    "해사행정사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "행정사"
+    },
+    "소방안전교육사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "소방안전교육사"
+    },
+    "소방시설관리사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "소방시설관리사"
+    },
+    "박물관및미술관준학예사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "박물관 및 미술관 준학예사"
+    },
+    "한국어교육능력검정시험": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "한국어교육능력검정시험"
+    },
+    "관광통역안내사(독어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(러시아어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(말레이/인도네시아어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(베트남어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(불어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(스페인어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(아랍어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(영어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(이탈리아어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(일본어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(중국어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "관광통역안내사(태국어)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "관광통역안내사"
+    },
+    "호텔관리사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "호텔관리사"
+    },
+    "호텔경영사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "호텔경영사"
+    },
+    "국내여행안내사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국내여행안내사"
+    },
+    "호텔서비스사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "호텔서비스사"
+    },
+    "국가유산수리기술자(단청)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기술자"
+    },
+    "국가유산수리기술자(보수)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기술자"
+    },
+    "국가유산수리기술자(보존과학)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기술자"
+    },
+    "국가유산수리기술자(식물보호)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기술자"
+    },
+    "국가유산수리기술자(실측설계)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기술자"
+    },
+    "국가유산수리기술자(조경)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기술자"
+    },
+    "국가유산수리기능자(가공석공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(대목수)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(도금공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(드잡이공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(모사공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(목조각공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(박제및표본제작공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(번와와공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(보존처리공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(석조각공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(세척공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(소목수)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(식물보호공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(실측설계사보)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(쌓기석공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(온돌공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(제작와공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(조경공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(철물공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(칠공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(표구공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(한식미장공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(화공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "국가유산수리기능자(훈증공)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "국가유산수리기능자(24종목)"
+    },
+    "농산물품질관리사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "농산물품질관리사"
+    },
+    "경매사(수산)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경매사"
+    },
+    "경매사(약용)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경매사"
+    },
+    "경매사(양곡)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경매사"
+    },
+    "경매사(청과)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경매사"
+    },
+    "경매사(축산)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경매사"
+    },
+    "경매사(화훼)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경매사"
+    },
+    "경영지도사(1차공통)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경영지도사"
+    },
+    "경영지도사(마케팅)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경영지도사"
+    },
+    "경영지도사(생산관리)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경영지도사"
+    },
+    "경영지도사(인적자원관리)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경영지도사"
+    },
+    "경영지도사(재무관리)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "경영지도사"
+    },
+    "기술지도사(1차공통)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "기술지도사"
+    },
+    "기술지도사(기술혁신관리)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "기술지도사"
+    },
+    "기술지도사(정보기술관리)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "기술지도사"
+    },
+    "변리사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "변리사"
+    },
+    "사회복지사 1급": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "사회복지사 1급"
+    },
+    "정수시설운영관리사1급": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "정수시설운영관리사"
+    },
+    "정수시설운영관리사2급": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "정수시설운영관리사"
+    },
+    "정수시설운영관리사3급": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "정수시설운영관리사"
+    },
+    "산업안전지도사(건설안전)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "산업안전지도사"
+    },
+    "산업안전지도사(기계안전)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "산업안전지도사"
+    },
+    "산업안전지도사(전기안전)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "산업안전지도사"
+    },
+    "산업안전지도사(화공안전)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "산업안전지도사"
+    },
+    "산업보건지도사(산업위생공학)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "산업보건지도사"
+    },
+    "산업보건지도사(직업환경의학)": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "산업보건지도사"
+    },
+    "주택관리사보": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "주택관리사보"
+    },
+    "감정평가사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "감정평가사"
+    },
+    "물류관리사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "물류관리사"
+    },
+    "검수사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "검수사"
+    },
+    "검량사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "검량사"
+    },
+    "감정사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "감정사"
+    },
+    "1급 청소년지도사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "청소년지도사"
+    },
+    "2급 청소년지도사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "청소년지도사"
+    },
+    "3급 청소년지도사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "청소년지도사"
+    },
+    "1급 청소년상담사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "청소년상담사"
+    },
+    "2급 청소년상담사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "청소년상담사"
+    },
+    "3급 청소년상담사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "청소년상담사"
+    },
+    "수산물품질관리사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "수산물품질관리사"
+    },
+    "손해평가사": {
+        "Middle classification": " ",
+        "Major Category": " ",
+        "qualifications": "국가전문자격",
+        "etc": "손해평가사"
+    }
+}
