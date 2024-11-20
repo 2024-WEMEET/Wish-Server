@@ -67,7 +67,7 @@ public class SecurityConfig {
                                                 .successHandler(customSuccessHandler))
                                 .authorizeHttpRequests((auth) -> auth
                                                 .requestMatchers("/", "/public/**").permitAll() // 모두 허용 메소드
-                                                .requestMatchers("/member/userInfo", "/member/tutorial").hasRole("USER") // 권한 필요 메소드
+                                                .requestMatchers("/member/userInfo", "/member/tutorial", "/chat/send", "/chat/history").hasRole("USER") // 권한 필요 메소드
                                                 .anyRequest().authenticated())
                                 .sessionManagement((session) -> session
                                                 .sessionCreationPolicy(SessionCreationPolicy.STATELESS)); // 세션 관리 STATELESS
