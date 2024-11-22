@@ -11,6 +11,6 @@ public class MainController {
     @ResponseBody
     public String mainAPI() {
 
-        return "main route";
+        return "login";
     }
 }

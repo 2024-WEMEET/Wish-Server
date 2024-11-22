@@ -22,56 +22,57 @@ import wish.wishServer.oauthjwt.service.CustomOAuth2UserService;
 @EnableWebSecurity
 public class SecurityConfig {
 
-        private final CustomOAuth2UserService customOAuth2UserService;
-        private final CustomSuccessHandler customSuccessHandler;
-        private final JWTUtil jwtUtil;
+  private final CustomOAuth2UserService customOAuth2UserService;
+  private final CustomSuccessHandler customSuccessHandler;
+  private final JWTUtil jwtUtil;
 
-        public SecurityConfig(CustomOAuth2UserService customOAuth2UserService,
-                        CustomSuccessHandler customSuccessHandler, JWTUtil jwtUtil) {
-                this.customOAuth2UserService = customOAuth2UserService;
-                this.customSuccessHandler = customSuccessHandler;
-                this.jwtUtil = jwtUtil;
-        }
+  public SecurityConfig(CustomOAuth2UserService customOAuth2UserService,
+      CustomSuccessHandler customSuccessHandler, JWTUtil jwtUtil) {
+    this.customOAuth2UserService = customOAuth2UserService;
+    this.customSuccessHandler = customSuccessHandler;
+    this.jwtUtil = jwtUtil;
+  }
 
-        @Bean
-        public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+  @Bean
+  public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
 
-                http
-                                .cors(corsCustomizer -> corsCustomizer
-                                                .configurationSource(new CorsConfigurationSource() {
-                                                        @Override
-                                                        public CorsConfiguration getCorsConfiguration(
-                                                                        HttpServletRequest request) {
-                                                                CorsConfiguration configuration = new CorsConfiguration();
-                                                                configuration.setAllowedOriginPatterns(
-                                                                                Collections.singletonList(
-                                                                                                "http://localhost:8081")); //프론트 주소
-                                                                configuration.setAllowedMethods(
-                                                                                Collections.singletonList("*"));
-                                                                configuration.setAllowCredentials(true);
-                                                                configuration.setAllowedHeaders(
-                                                                                Collections.singletonList("*"));
-                                                                configuration.setMaxAge(3600L);
-                                                                configuration.setExposedHeaders(Collections
-                                                                                .singletonList("Authorization"));
-                                                                return configuration;
-                                                        }
-                                                }))
-                                .csrf((auth) -> auth.disable()) // CSRF 비활성화
-                                .formLogin((auth) -> auth.disable()) // Form 로그인 비활성화
-                                .httpBasic((auth) -> auth.disable()) // HTTP Basic 인증 비활성화
-                                .addFilterBefore(new JWTFilter(jwtUtil), UsernamePasswordAuthenticationFilter.class) // JWT 필터 추가
-                                .oauth2Login((oauth2) -> oauth2
-                                                .userInfoEndpoint((userInfoEndpointConfig) -> userInfoEndpointConfig
-                                                                .userService(customOAuth2UserService))
-                                                .successHandler(customSuccessHandler))
-                                .authorizeHttpRequests((auth) -> auth
-                                                .requestMatchers("/", "/public/**").permitAll() // 모두 허용 메소드
-                                                .requestMatchers("/member/userInfo", "/member/tutorial").hasRole("USER") // 권한 필요 메소드
-                                                .anyRequest().authenticated())
-                                .sessionManagement((session) -> session
-                                                .sessionCreationPolicy(SessionCreationPolicy.STATELESS)); // 세션 관리 STATELESS
+    http
+        .cors(corsCustomizer -> corsCustomizer
+            .configurationSource(new CorsConfigurationSource() {
+              @Override
+              public CorsConfiguration getCorsConfiguration(
+                  HttpServletRequest request) {
+                CorsConfiguration configuration = new CorsConfiguration();
+                configuration.setAllowedOriginPatterns(
+                    Collections.singletonList(
+                        "http://localhost:8080/")); // 프론트 주소
+                configuration.setAllowedMethods(
+                    Collections.singletonList("*"));
+                configuration.setAllowCredentials(true);
+                configuration.setAllowedHeaders(
+                    Collections.singletonList("*"));
+                configuration.setMaxAge(3600L);
+                configuration.setExposedHeaders(Collections
+                    .singletonList("Authorization"));
+                return configuration;
+              }
+            }))
+        .csrf((auth) -> auth.disable()) // CSRF 비활성화
+        .formLogin((auth) -> auth.disable()) // Form 로그인 비활성화
+        .httpBasic((auth) -> auth.disable()) // HTTP Basic 인증 비활성화
+        .addFilterBefore(new JWTFilter(jwtUtil), UsernamePasswordAuthenticationFilter.class) // JWT 필터 추가
+        .oauth2Login((oauth2) -> oauth2
+            .userInfoEndpoint((userInfoEndpointConfig) -> userInfoEndpointConfig
+                .userService(customOAuth2UserService))
+            .successHandler(customSuccessHandler))
+        .authorizeHttpRequests((auth) -> auth
+            .requestMatchers("/", "/public/**").permitAll() // 모두 허용 메소드
+            .requestMatchers("/member/userInfo", "/member/tutorial").hasRole("USER") // 권한 필요 메소드
+            .requestMatchers("/api/**").hasRole("USER") // 자격증 API 추가
+            .anyRequest().authenticated())
+        .sessionManagement((session) -> session
+            .sessionCreationPolicy(SessionCreationPolicy.STATELESS)); // 세션 관리 STATELESS
 
-                return http.build();
-        }
+    return http.build();
+  }
 }
