@@ -61,7 +61,7 @@ public class CustomSuccessHandler extends SimpleUrlAuthenticationSuccessHandler 
 
 
         // 리디렉션 URL에 튜토리얼 완료 여부를 추가
-        String redirectUrl = "http://localhost:8081/loading/?tutorialCompleted=" + tutorialCompleted + "&name=" + encodedName;
+        String redirectUrl = "http://localhost:5500/loading/?tutorialCompleted=" + tutorialCompleted + "&name=" + encodedName;
         response.sendRedirect(redirectUrl);
     }
 
