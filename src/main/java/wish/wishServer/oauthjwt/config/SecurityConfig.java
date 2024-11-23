@@ -22,19 +22,20 @@ import wish.wishServer.oauthjwt.service.CustomOAuth2UserService;
 @EnableWebSecurity
 public class SecurityConfig {
 
-        private final CustomOAuth2UserService customOAuth2UserService;
-        private final CustomSuccessHandler customSuccessHandler;
-        private final JWTUtil jwtUtil;
+  private final CustomOAuth2UserService customOAuth2UserService;
+  private final CustomSuccessHandler customSuccessHandler;
+  private final JWTUtil jwtUtil;
 
-        public SecurityConfig(CustomOAuth2UserService customOAuth2UserService,
-                        CustomSuccessHandler customSuccessHandler, JWTUtil jwtUtil) {
-                this.customOAuth2UserService = customOAuth2UserService;
-                this.customSuccessHandler = customSuccessHandler;
-                this.jwtUtil = jwtUtil;
-        }
+  public SecurityConfig(CustomOAuth2UserService customOAuth2UserService,
+      CustomSuccessHandler customSuccessHandler, JWTUtil jwtUtil) {
+    this.customOAuth2UserService = customOAuth2UserService;
+    this.customSuccessHandler = customSuccessHandler;
+    this.jwtUtil = jwtUtil;
+  }
 
-        @Bean
-        public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+  @Bean
+  public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+
 
                 http
                                 .cors(corsCustomizer -> corsCustomizer
@@ -72,6 +73,7 @@ public class SecurityConfig {
                                 .sessionManagement((session) -> session
                                                 .sessionCreationPolicy(SessionCreationPolicy.STATELESS)); // 세션 관리 STATELESS
 
-                return http.build();
-        }
+
+    return http.build();
+  }
 }
